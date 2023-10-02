@@ -6,7 +6,7 @@
 - 파일 및 리소스(소스코드 등) 변경사항 추적에 사용
 # 2. Git 설치
 ## 2.1. Mac OS 에서
-*직접 설치하며 경험한 오류들*
+*[왕 초보 가이드](https://sin0824.tistory.com/8)*
 - - -
 > Homebrew 설치
 - [Homebrew 설치링크](https://brew.sh) 에서 알려주는 설명대로 터미널을 통해서 설치하는게 일반적이지만 Mac OS의 경우 [Homebrew 릴리즈 다운로더](https://github.com/Homebrew/brew/releases/latest) 로 설치하는게 마음편하다.
@@ -31,4 +31,6 @@
 ### 해결 방법 3
 - [SSH 접속 설정](https://www.lainyzine.com/ko/article/creating-ssh-key-for-github/)
 - [SSH 접속 설정(Windows)](https://abcdefgh123123.tistory.com/211)
-- 
+---
+>레포지토리 삭제(설정)
+- [레포지토리 삭제 방법](https://devmango.tistory.com/53)
